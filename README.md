@@ -8,7 +8,7 @@
 4. 感知机
 5. 前向神经网络
 
-> 2, 3, 4 使用的数据集来自 http://openclassroom.stanford.edu/MainFolder/DocumentPage.php?course=DeepLearning&doc=exercises/ex4/ex4.html
+> 2, 3, 4, 5 使用的数据集来自 http://openclassroom.stanford.edu/MainFolder/DocumentPage.php?course=DeepLearning&doc=exercises/ex4/ex4.html
 
 
 
