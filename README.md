@@ -7,8 +7,9 @@
 3. Softmax 回归
 4. 感知机
 5. 前向神经网络
+6. SVM 支持向量机
 
-> 2, 3, 4, 5 使用的数据集来自 http://openclassroom.stanford.edu/MainFolder/DocumentPage.php?course=DeepLearning&doc=exercises/ex4/ex4.html
+> 2, 3, 4, 5, 6 使用的数据集来自 http://openclassroom.stanford.edu/MainFolder/DocumentPage.php?course=DeepLearning&doc=exercises/ex4/ex4.html
 
 
 
